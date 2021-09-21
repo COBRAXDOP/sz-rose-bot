@@ -64,18 +64,18 @@ from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 
 
 PM_START_TEXT = """
-Hey there!👋  My name is Rose ✨
+нєу тнєяє!👋  му иαмє ιѕ αℓιzα ✨
 
-I can manage your  group with lots of useful features, feel free to add me to your group.
+ι ¢αи мαиαgє уσυя gяσυρ ωιтн ℓσѕт σf  υѕєfυℓℓ, αωαѕσмє αи∂ ρяємιυм  fєαтυяєѕ, fєℓℓ fяєє тσ α∂∂ мє тσ уσυя gяσυρ.
 
-✨ Pọwẹrẹɗ Ɓy : @SL_bot_zone
+🥀 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 : @MISTY_SUPORTER
 ✮───────────────✮
-🌟 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 : @supunmabot
+🥀 𝗱𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : @XD_LIF
 ✮───────────────✮
 """
 
 HELP_STRINGS = f"""
-𝑻𝒉𝒆 𝒇𝒐𝒍𝒍𝒐𝒘𝒊𝒏𝒈 𝒇𝒖𝒏𝒄𝒕𝒊𝒐𝒏𝒔 𝒘𝒊𝒍𝒍 𝒉𝒆𝒍𝒑𝒇𝒖𝒍 𝒕𝒐 𝒚𝒐𝒖 𝒕𝒐 𝒎𝒂𝒏𝒂𝒈𝒆 𝒚𝒐𝒖𝒓 𝒈𝒓𝒐𝒖𝒑🙂
+ᴛʜᴇ ғᴏʟʟᴏᴡɪɴɢ ғᴜɴᴄᴛɪᴏɴs ᴡɪʟʟ ʜᴇʟᴘғᴜʟ ᴛᴏ ʏᴏᴜʀ ᴍᴀɴᴀɢᴇ ʏᴏᴜʀ ɢʀᴏᴜᴘ🙂
 """.format(
     dispatcher.bot.first_name,
     "" if not ALLOW_EXCL else "\nAll commands can either be used with / or !.\n",
@@ -83,31 +83,31 @@ HELP_STRINGS = f"""
 
 
 DONATE_STRING = """
-𝑯𝒆𝒚𝒂, 𝒈𝒍𝒂𝒅 𝒕𝒐 𝒉𝒆𝒂𝒓 𝒚𝒐𝒖 𝒘𝒂𝒏𝒕 𝒕𝒐 𝒅𝒐𝒏𝒂𝒕𝒆!
-𝒀𝒐𝒖 𝒄𝒂𝒏 𝒅𝒐𝒏𝒂𝒕𝒆 𝒕𝒐 𝒕𝒉𝒆 𝒐𝒓𝒊𝒈𝒊𝒏𝒂𝒍 𝒘𝒓𝒊𝒕𝒆𝒓'𝒔 𝒐𝒇 𝒕𝒉𝒆 𝑩𝒂𝒔𝒆 𝒄𝒐𝒅𝒆,
-𝑺𝒖𝒑𝒑𝒐𝒓𝒕 𝒕𝒉𝒆𝒎 [Youtube](https://www.youtube.com/channel/UCvYfJcTr8RY72dIapzMqFQA)
+𝐇𝐞𝐲𝐚, 𝐆𝐥𝐚𝐝 𝐓𝐨 𝐇𝐞𝐚𝐫 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐃𝐨𝐧𝐚𝐭𝐞!
+𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐓𝐨 𝐓𝐡𝐞 𝐎𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐖𝐫𝐢𝐭𝐞𝐫'𝐬 𝐨𝐟 𝐓𝐡𝐞 𝐁𝐚𝐬𝐞 𝐂𝐨𝐝𝐞,
+𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞𝐧 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 [𝑪𝒐𝒃𝒓𝒂](https://t.me/XD_LIF)
 """
 STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
 
 BUTTONS = [
     [
         InlineKeyboardButton(
-            text="➕️ 𝐀𝐃𝐃 𝐌𝐄 𝐓𝐎 𝐘𝐎𝐔𝐑 𝐆𝐑𝐎𝐔𝐏 ➕️", url="http://t.me/szrosebot?startgroup=true"),
+            text="➕️ 𝗔𝗗𝗗 𝗔𝗟𝗜𝗭𝗔 𝗧𝗢 𝗬𝗢𝗨𝗥 𝗚𝗥𝗢𝗨𝗣 ➕️", url="http://t.me/szrosebot?startgroup=true"),
     ],
     [
-        InlineKeyboardButton(text="📢 Bot updates ", url=f"https://t.me/sl_bot_zone"),
+        InlineKeyboardButton(text="𝐁𝐨𝐭 𝐔𝐩𝐝𝐚𝐭𝐞𝐬 ⚡ ", url=f"https://t.me/MISTY_SUPORT"),
         InlineKeyboardButton(
-            text="Repo 📦", url=f"https://github.com/youtubeslgeekshow"
+            text="𝐌𝐲 𝐋𝐞𝐚𝐠𝐚𝐧𝐝 👿", url=f"https://t.me/XD_LIF"
         ),
     ],
     [
-        InlineKeyboardButton(text="Info & about 💁‍♀️", callback_data="aboutmanu_howto"),
+        InlineKeyboardButton(text="𝐈𝐧𝐟𝐨 & 𝐀𝐛𝐨𝐮𝐭 💁‍♀️", callback_data="aboutmanu_howto"),
         InlineKeyboardButton(
-            text=" More 💫", callback_data="aboutmanu_"
+            text=" 𝐌𝐨𝐫𝐞 🥀", callback_data="aboutmanu_"
         ),
     ],
     [
-        InlineKeyboardButton(text="🧰 Help & commands 🛠 ", callback_data="help_back"),
+        InlineKeyboardButton(text="🧰 𝐇𝐞𝐥𝐩 & 𝐂𝐨𝐦𝐦𝐀𝐧𝐝𝐬 🛠 ", callback_data="help_back"),
     ],
 ]
 IMPORTED = {}
@@ -231,12 +231,12 @@ def start(update: Update, context: CallbackContext):
             )
     else:
         update.effective_message.reply_text(
-            " I'm online!!😊\n<b>Up since:</b> <code>{}</code>😝".format(
+            " I'm online!!🐍\n<b>Up since:</b> <code>{}</code>😝".format(
                 uptime
             ),
             parse_mode=ParseMode.HTML,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton(text="Updates", url ="https://t.me/szroseupdates")]],
+                [[InlineKeyboardButton(text="Updates", url ="https://t.me/MISTY_SUPORT")]],
             ),
         )
     
@@ -359,8 +359,8 @@ def DewmiBot_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
-            text=f" @szrosebot🇱🇰 - A bot to manage your groups with additional features!"
-            f"\n\n Here's the basic help regarding use of @szrosebot🇱🇰."
+            text=f" @AlizaProBot 👀 - A bot to manage your groups with additional features!"
+            f"\n\n Here's the basic help regarding use of @AlizaProBot 👀."
             f"\n\n Almost all modules usage defined in the help menu, checkout by sending `/help`"
             f"\n\n Report error/bugs click the Button ",
             parse_mode=ParseMode.MARKDOWN,
@@ -369,15 +369,15 @@ def DewmiBot_about_callback(update, context):
                 [
                     [
                         InlineKeyboardButton(
-                            text="Bᴜɢ'ꜱ🐞", url="t.me/slbotzone"
+                            text="Bᴜɢ'ꜱ😟", url="t.me/MISTY_SUPORT"
                         ),
                         InlineKeyboardButton(
-                            text="updates💁‍♀️", url="t.me/sl_bot_zone"
+                            text="updates🥀", url="t.me/MISTY_SUPORT"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="Donate 🤕", url="http://t.me/szrosebot?start=donate"
+                            text="Donate 🤕", url="http://t.me/XD_LIF"
                         ),
                         InlineKeyboardButton(
                             text="Inline search 🔎", switch_inline_query_current_chat=""
@@ -400,7 +400,7 @@ def DewmiBot_about_callback(update, context):
             text=f"** Here's basic Help regarding* *How to use Me? **"
             f"\n\n Firstly Add {dispatcher.bot.first_name} to your group by pressing [here](http://t.me/{dispatcher.bot.username}?startgroup=true)\n"
             f"\n\n After adding promote me manually with full rights for faster experience.\n"
-            f"\n\n Than send `/admincache@szrosebot` in that chat to refresh admin list in My database.\n"
+            f"\n\n Than send `/admincache @AlizaProBot` in that chat to refresh admin list in My database.\n"
             f"\n\n *All done now use below given button's to know about use!*\n"
             f"",
             parse_mode=ParseMode.MARKDOWN,
@@ -425,7 +425,7 @@ def DewmiBot_about_callback(update, context):
     elif query.data == "aboutmanu_credit":
         query.message.edit_text(
             text=f"*Let's make your group bot effective now*"
-            f"\nCongragulations, @szrosebot🇱🇰 now ready to manage your group."
+            f"\nCongragulations, @AlizaProBot 👀 now ready to manage your group."
             f"\n\n*Admin Tools*"
             f"\nBasic Admin tools help you to protect and powerup your group."
             f"\nYou can ban members, Kick members, Promote someone as admin through commands of bot."
@@ -452,18 +452,18 @@ def DewmiBot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_spamprot":
         query.message.edit_text(
-            text="* @szrosebot🇱🇰 support chats*"
+            text="* @AlizaProBot 👀 support chats*"
             "\nJoin Support Group/Channel",
             parse_mode=ParseMode.MARKDOWN,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Owener channel ", url="https://t.me/FreeNetSL"),
-                    InlineKeyboardButton(text="Owner group ", url="https://t.me/supunmasl"),
+                    InlineKeyboardButton(text="Owener channel ", url="https://t.me/L0VEXWORLD"),
+                    InlineKeyboardButton(text="Owner group ", url="https://t.me/L0VEXWORLD"),
                  ],
                  [
-                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/slbotzone"),
-                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/sl_bot_zone"),
+                    InlineKeyboardButton(text="Sᴜᴘᴘᴏʀᴛ", url="https://t.me/MISTY_SUPORTER"),
+                    InlineKeyboardButton(text="Uᴘᴅᴀᴛᴇꜱ", url="https://t.me/MISTY_SUPORT"),
                  ],
                  [
                     InlineKeyboardButton(text="Back", callback_data="aboutmanu_howto"),
@@ -474,21 +474,21 @@ def DewmiBot_about_callback(update, context):
         )
     elif query.data == "aboutmanu_tac":
         query.message.edit_text(
-            text=f"* CREDITS  FOR @szrosebot🇱🇰  DEV *\n"
+            text=f"* CREDITS  FOR @AlizaProBot 🥀  DEV *\n"
             f"\n Here you can find information about the bots I coded and the people who helped me create Rose"
-            f"\n Special credits [hirunaofficial](https://github.com/hirunaofficial/Telegram-Group-Management-Bot-DewmiBot)  & [Anikivictor](https://github.com/Damantha126/The-Anki-Vector)"
+            f"\n Special credits [COBRAXDOP](https://t.me/XD_LIF)  & [∆I$H](https://t.me/aish_jaan_0)"
             f"\n Finally my special thanks to you for using this bot",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Dewmibot", url="https://t.me/sltechzoneofficial"),
-                    InlineKeyboardButton(text="Aniki victor bot", url="https://t.me/ankivectorUpdates"),
+                    InlineKeyboardButton(text="XDCOBRA", url="https://t.me/XD_LIF"),
+                    InlineKeyboardButton(text="AISH", url="https://t.me/aish_jaan_0"),
                  ],
                  [
-                    InlineKeyboardButton(text="Uvindu bro", url="https://t.me/UvinduBro"),
-                    InlineKeyboardButton(text="Stream_Music", url="https://t.me/SDBOTs_inifinity"),
+                    InlineKeyboardButton(text="Aryan", url="https://t.me/aryan_podar"),
+                    InlineKeyboardButton(text="LOVEXWORLD", url="https://t.me/L0VEXWORLD"),
                  ],
                  [
                     InlineKeyboardButton(text="Daisyx bot", url="https://github.com/TeamDaisyX/Daisy-OLD"),
@@ -534,7 +534,7 @@ def get_help(update, context):
                     [
                         InlineKeyboardButton(
                             text="Click me for help!",
-                            url="https://t.me/szrosebot",
+                            url="https://t.me/MISTY_SUPORTER",
                         )
                     ],
                 ]
@@ -800,7 +800,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝖄𝖊𝖘 𝕴'𝖒 𝖆𝖑𝖎𝖛𝖊 🤭")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "𝖄𝖊𝖘 𝕴'𝖒 𝖆𝖑𝖎𝖛𝖊 😆")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
