@@ -570,7 +570,7 @@ def kayo(update: Update, context: CallbackContext):
 
 
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot⚡
 Get information about anime, manga or characters from [AniList](anilist.co).
 *Available commands:*
  ❍ `/anime <anime>`*:* returns information about the anime.
