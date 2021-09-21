@@ -132,7 +132,7 @@ async def karmaon(pbot, update):
         
 
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot⚡
 [UPVOTE] - Use upvote keywords like "+", "+1", "thanks" etc to upvote a cb.message.
 [DOWNVOTE] - Use downvote keywords like "-", "-1", etc to downvote a cb.message.
 
