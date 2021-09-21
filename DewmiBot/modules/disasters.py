@@ -604,7 +604,7 @@ def supportlist(update: Update, context: CallbackContext):
 def sudolist(update: Update, context: CallbackContext):
     bot = context.bot
     true_sudo = list(set(DRAGONS) - set(DEV_USERS))
-    reply = "<b>szrosebot sudolist 🐉:</b>\n"
+    reply = "<b>Alizabot sudolist 🐉:</b>\n"
     for each_user in true_sudo:
         user_id = int(each_user)
         try:
