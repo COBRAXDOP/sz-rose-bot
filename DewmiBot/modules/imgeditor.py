@@ -451,7 +451,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
 
 
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot
 ** IMAGE EDITOR **
 
 szrose have some advanced image editing tools inbuilt
