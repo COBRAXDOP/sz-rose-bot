@@ -427,7 +427,7 @@ def stats(update: Update, context: CallbackContext):
     )
     output = process.communicate()[0]
     stats = (
-        "<b>stats of szrosebot📊:</b>\n"
+        "<b>stats of Alizabot📊:</b>\n"
         + "\n"
         + output
         + "\n".join([mod.__stats__() for mod in STATS])
@@ -525,7 +525,7 @@ def __user_info__(user_id):
     return result
 
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot⚡
 *ID:*
  ❍ `/id`*:* get the current group id. If used by replying to a message, gets that user's id.
  ❍ `/gifid`*:* reply to a gif to me to tell you its file ID.
