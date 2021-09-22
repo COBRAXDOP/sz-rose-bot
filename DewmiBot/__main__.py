@@ -66,7 +66,7 @@ from DewmiBot.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = """
 нєу тнєяє!👋  му иαмє ιѕ αℓιzα ✨
 
-ι ¢αи мαиαgє уσυя gяσυρ ωιтн ℓσѕт σf  υѕєfυℓℓ, αωαѕσмє αи∂ ρяємιυм  fєαтυяєѕ, fєℓℓ fяєє тσ α∂∂ мє тσ уσυя gяσυρ.
+ι ¢αи мαиαgє уσυя gяσυρ ωιтн ℓσѕт σf  υѕєfυℓℓ, αωαѕσмє αи∂ ρяємιυм  fєαтυяєѕ, fєℓℓ fяєє тσ α∂∂ мє тσ уσυя gяσυρ[.](https://telegra.ph/file/987609c477aedf8086cff.jpg).
 
 🥀 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 : @MISTY_SUPORTER
 ✮───────────────✮
@@ -86,8 +86,7 @@ DONATE_STRING = """
 𝐇𝐞𝐲𝐚, 𝐆𝐥𝐚𝐝 𝐓𝐨 𝐇𝐞𝐚𝐫 𝐘𝐨𝐮 𝐖𝐚𝐧𝐭 𝐓𝐨 𝐃𝐨𝐧𝐚𝐭𝐞!
 𝐘𝐨𝐮 𝐂𝐚𝐧 𝐃𝐨𝐧𝐚𝐭𝐞 𝐓𝐨 𝐓𝐡𝐞 𝐎𝐫𝐢𝐠𝐢𝐧𝐚𝐥 𝐖𝐫𝐢𝐭𝐞𝐫'𝐬 𝐨𝐟 𝐓𝐡𝐞 𝐁𝐚𝐬𝐞 𝐂𝐨𝐝𝐞,
 𝐒𝐮𝐩𝐩𝐨𝐫𝐭 𝐓𝐡𝐞𝐧 𝐌𝐲 𝐎𝐰𝐧𝐞𝐫 [𝑪𝒐𝒃𝒓𝒂](https://t.me/XD_LIF)
-"""
-STICKERS = "CAACAgUAAx0CS6YhoQAC02VhQUW7iB4ci3lcSXHtLVOjFzZlDQACUQMAAvPvEVY76k2QN6u20iAE"   
+""   
 
 BUTTONS = [
     [
