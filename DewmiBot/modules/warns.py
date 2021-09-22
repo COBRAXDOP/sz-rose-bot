@@ -119,7 +119,7 @@ def warn(
             [
                 [
                     InlineKeyboardButton(
-                        "🔘 Remove warn", callback_data="rm_warn({})".format(user.id)
+                        "☠️ Remove warn", callback_data="rm_warn({})".format(user.id)
                     )
                 ]
             ]
@@ -498,7 +498,7 @@ def __chat_settings__(chat_id, user_id):
 
 
 __help__ = """
- @szrosebot🇱🇰
+ @AlizaProBot⚡
  /warns <userhandle>*:* get a user's number, and reason, of warns.
  ❍ /warnlist*:* list of all current warning filters
 
