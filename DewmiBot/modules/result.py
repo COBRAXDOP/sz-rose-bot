@@ -1,6 +1,6 @@
   
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot⚡
 **You can find out your exam results very quickly through me.**
 
  What does I Know 
@@ -18,6 +18,6 @@ __help__ = """
  ❍ /g5- (G5) SCHOLARSHIP Results 
 `Index No`
  
-'Donents.lk Bot' © @uvindbro
+'Donents.lk Bot' © @XD_LIF
 """
 __mod_name__ = "Result"
