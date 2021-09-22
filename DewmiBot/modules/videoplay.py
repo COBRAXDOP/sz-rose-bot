@@ -1,5 +1,5 @@
 __help__ = """
-@szrosebot🇱🇰
+@AlizaProBot⚡
  ⚊❮❮❮❮  All Command List ❯❯❯❯⚊
         
 ✮ /vplay (reply to video or yt/live url) - to stream video
