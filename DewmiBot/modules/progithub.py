@@ -43,7 +43,7 @@ async def github(_, message):
 **Location:** `{location}`
 **Followers:** `{followers}`
 **Following:** `{following}`
-**Updates:** @szroseupdates"""
+**Updates:** @MISTY_SUPORT"""
             except Exception as e:
                 print(str(e))
                 pass
